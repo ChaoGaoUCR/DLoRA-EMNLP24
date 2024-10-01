@@ -8,5 +8,5 @@ We are assuming the LoRA modules are stored on the device side while the backbon
 
 # Bash Scripts
 
-# Acknoledge
+# Acknowledge
 This repo benefits from [PEFT](https://huggingface.co/docs/peft/en/index), [LLM_adapters](https://github.com/AGI-Edgerunners/LLM-Adapters), [Alpaca-lora](https://github.com/tloen/alpaca-lora). Thanks for their wonderful works, it really saves me tons of time :)
