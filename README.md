@@ -3,7 +3,7 @@ The code will consist of two parts:
 1. Host-side scripts
 2. Device-side scripts -- (under construction)
 # Overall Assumptions
-We are assuming the LoRA modules are stored on the device side while the backbone model is on the host side.
+We are assuming the LoRA modules are stored on the device side while the backbone model is on the host side, as in the following architecture![figure](Figures/Assumption.jpg) depicts.
 # Install Dependency
 
 # Bash Scripts
